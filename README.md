@@ -1,3 +1,7 @@
+This project is a React-based E-Commerce application demonstrating Test-Driven Development (TDD), Continuous Integration (CI), and Continuous Deployment (CD). Users can browse products, filter by category, and view details of the full product. Users can add products to their cart from the homepage or from the product details page. I wrote three different tests for three separate components. 
+
+Development follows all TDD principle. 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -50,10 +50,10 @@ export default function HomePage() {
     <div className="app-shell">
       <header className="hero-section">
         <div className="hero-copy">
-          <p className="eyebrow">Continuous delivery ready</p>
-          <h1>Guest storefront with cart persistence and no auth gate.</h1>
+          <p className="eyebrow">Your Stop for Shopping</p>
+          <h1>The Shopping Storefront with Easy Checkout Access</h1>
           <p>
-            Browse products from FakeStore, add items to the cart, and complete a local checkout flow that is easy to test and deploy.
+            Browse our products and add them to your cart. You can view your cart and place an order at any time. Enjoy a seamless shopping experience!
           </p>
         </div>
         <div className="hero-stats" aria-label="Cart summary">
